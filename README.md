@@ -1,6 +1,7 @@
 # Homework Week 1
 ## Readme Instructions on Creating and Tearing down an EC2
 Log into AWS, preferably with your IAM user. Use Root user if need be.
+
 Locate the search bar and type in EC2.
 Select EC2.
 Locate Network & Security on left hand side of screen.
